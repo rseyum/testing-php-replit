@@ -1,5 +1,5 @@
 <?php
-include 'Calculator.php'
+include 'Calculator.php';
   
 $myCalc = new Calculator();
 
